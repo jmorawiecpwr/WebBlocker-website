@@ -1,6 +1,6 @@
 # WebBlocker
 
-![WebBlocker Logo](path-to-your-logo.png)
+![WebBlocker Logo](app.png)
 
 WebBlocker is the ultimate web blocking tool designed to create a distraction-free environment. This tool helps you stay focused by blocking unwanted websites and providing customizable blocking options. Whether you need to block specific websites or remove all websites containing a certain phrase, WebBlocker has you covered.
 
